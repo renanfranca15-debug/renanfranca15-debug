@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Renan Honorato de França, tenho 21 anos e sou natural de sao Paulo. Concluí o ensino médio no Joana Motta, com o cursos livres da Rockseat. Atualmente, estou cursando Engenharia de Software na UNICSUL. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil do tiktok "[Renan Data]()", onde ensino a criar projetos de Data , e também através do Instagram, com o perfil chamado "[Renan Data Analytcs]()".
+Me chamo Renan Honorato de França, tenho 21 anos e sou natural de sao Paulo. Concluí o ensino médio no Joana Motta, com o cursos livres da Rockseat. Atualmente, estou cursando Engenharia de Software na UNICSUL. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil do tiktok "[Renan Data](https://www.tiktok.com/@renanfrancatech)", onde ensino a criar projetos de data , e também através do Instagram, com o perfil chamado "[Renan Data Analytcs](https://www.instagram.com/renanfranca.)".
 
 
    </a> 
