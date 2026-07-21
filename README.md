@@ -84,19 +84,19 @@ Me chamo Renan Honorato de França, tenho 21 anos e sou natural de sao Paulo. Co
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="git" 
+    title="git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Github" 
+    title="Github"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
     align="left" 
