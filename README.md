@@ -132,11 +132,11 @@ Me chamo Renan Honorato de França, tenho 21 anos e sou natural de sao Paulo. Co
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="linkedln" 
+    title="linkedln"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
 />
 
 <br/>
