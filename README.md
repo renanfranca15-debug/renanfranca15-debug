@@ -116,19 +116,19 @@ Me chamo Renan Honorato de França, tenho 21 anos e sou natural de sao Paulo. Co
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="docker" 
+    title="docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="fastapi" 
+    title="fastapi"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
 <img 
     align="left" 
