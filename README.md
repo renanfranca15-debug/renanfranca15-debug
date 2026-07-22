@@ -100,11 +100,11 @@ Me chamo Renan Honorato de França, tenho 21 anos e sou natural de sao Paulo. Co
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="vscode" 
+    title="vscode"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
     align="left" 
